@@ -8,7 +8,7 @@
 5) Transform the directed graph in undirected for MST algorithm
 6) Visualize the graph
 
-The graph rappresent the network of similar companies o the target, here the result:
+The graph rappresent the network of similar companies of the target, here the result:
 
 ![MST_target](MST_simili_online.png)
 
